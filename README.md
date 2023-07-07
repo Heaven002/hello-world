@@ -7,3 +7,6 @@ This repository is built step by step in the tutorial
 
 it now includes steps for GitHub
 I keep trying to follow through w3schools but i don't get the same result
+
+
+so new changes have been made to learn to push files of a branch to gitHub
